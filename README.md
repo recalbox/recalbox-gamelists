@@ -17,4 +17,4 @@ If you want to contribute, here are the rules:
 - If you add custom image, the maximum width should be 375px and the maximum height should be 350px.
 - Create a pull request with the modified gamelists and images.
 
-The special scrapper automatically resize scrapped image to the good size. It also add the <region> tag with corresponding region in xml data. A <romtype> tag is added too, with a default value set to *Official* if the title do not contains the string *(Proto)*.
+The special scrapper automatically resize scrapped image to the good size. It also add the *region* tag with corresponding region in xml data. A *romtype* tag is added too, with a default value set to *Official* if the title do not contains the string *(Proto)*.
