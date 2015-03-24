@@ -5,7 +5,6 @@ Games to scrap : 517
 
 
 ## Game Boy Color ##
-System Stats : gbc  
 Total games in rom dir : 1409  
 Scrapped games in gamelist.xml : 884  
 Games to scrap : 525  
