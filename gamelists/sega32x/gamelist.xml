@@ -544,6 +544,25 @@ There are two ways to play the game. First, one can directly control the ship an
     <romtype>Official</romtype>
   </game>
   <game>
+    <id>4923</id>
+    <path>./Stellar Assault (Japan).zip</path>
+    <name>Stellar Assault</name>
+    <desc>Stellar Assault (Shadow Squadron) is a 3D space combat shooter. The player controls a space fighter in a series of battles against huge enemy ships. There are 2 different types of ships to fly, and 6 different missions. In most missions, the player has to destroy several locations on a large ship in order to blow up the whole thing.
+
+There are two ways to play the game. First, one can directly control the ship and maneuver it around the 3D polygon environments. Second, the player can let the 32X do the flying, and simply control a gun turret.</desc>
+    <image>~/.emulationstation/downloaded_images/sega32x/Shadow Squadron ~ Stellar Assault (USA, Europe)-image.jpeg</image>
+    <releasedate>05/25/1995</releasedate>
+    <publisher>Sega</publisher>
+    <developer>SEGA</developer>
+    <rating>1.000000</rating>
+    <players>2</players>
+    <genres>
+      <genre>Shooter</genre>
+    </genres>
+    <region>Japan</region>
+    <romtype>Official</romtype>
+  </game>
+  <game>
     <id>9083</id>
     <path>./Soulstar X (USA) (Proto).zip</path>
     <name>Soulstar X</name>
