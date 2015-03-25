@@ -20,3 +20,7 @@ Total games in rom dir : 63
 Scrapped games in gamelist.xml : 51  
 Games to scrap : 12  
 
+## MEGADRIVE ## 
+Total games in rom dir : 1664 
+Scrapped games in gamelist.xml : 1570 
+Games to scrap : 94 
