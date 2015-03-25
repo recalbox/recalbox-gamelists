@@ -1,4 +1,177 @@
   <gameList>
+      <game id="579619" source="gamefaqs.com">
+          <path>./Ayakashi no Shiro (Japan).zip</path>
+          <name>Ayakashi no Shiro (Japan)</name>
+          <desc>Ayakashi no Shiro is a turn-based dungeon crawl. Players move the protagonist through first-person dungeons where randomly occurring battles happen. When combat begins, the player is given several options through a menu system to fight the enemies.</desc>
+          <image>~/.emulationstation/downloaded_images/gb/Ayakashi no Shiro (Japan).jpg</image>
+          <releasedate>19901012T000000</releasedate>
+          <publisher>SETA Corporation</publisher>
+          <genre>Role-Playing</genre>
+          <region>Japan</region>
+          <romtype>Original</romtype>
+      </game>
+      <game id="579719" source="gamefaqs.com">
+          <path>./Astro Rabby (Japan).zip</path>
+          <name>Astro Rabby (Japan)</name>
+          <desc>Astro Rabby is an Action game, developed by Cyclone System and published by IGS, which was released in Japan in 1990.</desc>
+          <image>~/.emulationstation/downloaded_images/gb/Astro Rabby (Japan).jpg</image>
+          <releasedate>19901012T000000</releasedate>
+          <developer>Cyclone System</developer>
+          <publisher>IGS</publisher>
+          <genre>Action</genre>
+          <region>Japan</region>
+          <romtype>Original</romtype>
+      </game>
+      <game id="569683" source="gamefaqs.com">
+          <path>./Asmik-kun World 2 (Japan).zip</path>
+          <name>Asmik-kun World 2 (Japan)</name>
+          <desc>Asmik-kun World 2 is a Game Boy video game by Asmik, copyrighted in 1991.Unlike its predecessor, Boomer's Adventure in ASMIK World (Teke! Teke! Asmik-kun World), this game was never released outside of Japan. Like its predecessor, the game is an excellent example of the trap-em-up genre, which also includes games like Heiankyo Alien and Space Panic. In the game, Asmik-kun has to build a "road" from the entrance to the exit in each level. An enemy has come to kidnap the children on a certain world and the "roads" are intended for the children to be rescued and escorted safely back home.</desc>
+          <image>~/.emulationstation/downloaded_images/gb/Asmik-kun World 2 (Japan).jpg</image>
+          <releasedate>19910524T000000</releasedate>
+          <developer>Cyclone System</developer>
+          <publisher>Asmik Ace Entertainment</publisher>
+          <genre>Action</genre>
+          <region>Japan</region>
+          <romtype>Original</romtype>
+      </game>
+      <game id="569748" source="gamefaqs.com">
+          <path>./Aretha III (Japan).zip</path>
+          <name>Aretha III (Japan)</name>
+          <desc>Aretha is the third episode of role-playing exclusive Japanese market video game. It tells the story of Ariel; the granddaughter of a wise old grandmother who has ben turned a ten-year-old and was given a simple task: to go through the forest to Nineveh, the nearby town, and to meet a certain person while visiting the town. Eventually, Ariel uses this quest to hone her magic skills to fight the ultimate battle against evil. An all-directional battle screen is used that allows enemies to attack from the rear, the side, and the front.</desc>
+          <image>~/.emulationstation/downloaded_images/gb/Aretha III (Japan).jpg</image>
+          <releasedate>19921016T000000</releasedate>
+          <developer>Japan Art Media (JAM)</developer>
+          <publisher>Yanoman</publisher>
+          <genre>Role-Playing</genre>
+          <region>Japan</region>
+          <romtype>Original</romtype>
+      </game>
+      <game id="569681" source="gamefaqs.com">
+          <path>./Aretha II (Japan).zip</path>
+          <name>Aretha II (Japan)</name>
+          <desc>Aretha is the second episode of role-playing exclusive Japanese market video game. It tells the story of Ariel; the granddaughter of a wise old grandmother who has ben turned a ten-year-old and was given a simple task: to go through the forest to Nineveh, the nearby town, and to meet a certain person while visiting the town. Eventually, Ariel uses this quest to hone her magic skills to fight the ultimate battle against evil. An all-directional battle screen is used that allows enemies to attack from the rear, the side, and the front.</desc>
+          <image>~/.emulationstation/downloaded_images/gb/Aretha II (Japan).jpg</image>
+          <releasedate>19910927T000000</releasedate>
+          <developer>Japan Art Media (JAM)</developer>
+          <publisher>Yanoman</publisher>
+          <genre>Role-Playing</genre>
+          <region>Japan</region>
+          <romtype>Original</romtype>
+      </game>
+      <game id="579858" source="gamefaqs.com">
+          <path>./Aretha (Japan).zip</path>
+          <name>Aretha (Japan)</name>
+          <desc>Aretha is the first episode of role-playing exclusive Japanese market video game. It tells the story of Ariel; the granddaughter of a wise old grandmother who has ben turned a ten-year-old and was given a simple task: to go through the forest to Nineveh, the nearby town, and to meet a certain person while visiting the town. Eventually, Ariel uses this quest to hone her magic skills to fight the ultimate battle against evil. An all-directional battle screen is used that allows enemies to attack from the rear, the side, and the front.</desc>
+          <image>~/.emulationstation/downloaded_images/gb/Aretha (Japan).jpg</image>
+          <releasedate>19901116T000000</releasedate>
+          <developer>Japan Art Media (JAM)</developer>
+          <publisher>Yanoman</publisher>
+          <genre>Role-Playing</genre>
+          <region>Japan</region>
+          <romtype>Original</romtype>
+      </game>
+      <game id="569531" source="gamefaqs.com">
+          <path>./Aoki Densetsu Shoot! (Japan) (SGB Enhanced).zip</path>
+          <name>Aoki Densetsu Shoot! (Japan) (SGB Enhanced)</name>
+          <desc>Aoki Densetsu Shoot! is a Japan-exclusive soccer game based on the TV anime of the same title. The game has an exhibition mode, an anime-style story mode, and a variety of options, which is entirely in Japanese, so literacy in this language is strongly recommended for quality gameplay. Once the game begins, the action progresses in a side view, similar to an arcade soccer game.</desc>
+          <image>~/.emulationstation/downloaded_images/gb/Aoki Densetsu Shoot! (Japan) (SGB Enhanced).jpg</image>
+          <releasedate>19950704T000000</releasedate>
+          <developer>Affect</developer>
+          <publisher>Banpresto</publisher>
+          <genre>Soccer</genre>
+          <region>Japan</region>
+          <romtype>Original</romtype>
+      </game>
+      <game id="569915" source="gamefaqs.com">
+          <path>./Another Bible (Japan) (SGB Enhanced).zip</path>
+          <name>Another Bible (Japan) (SGB Enhanced)</name>
+          <desc>A tactical RPG, Another Bible takes cues more from the Majin Tensei series than the previous Last Bible games. The Heroine can speak to demons and is the method used to recruit them. Taking place in the world of Granas, there was once a great war between humans and demons. After a long conflict peace was restored between humans and demons. Eventually a demon cult appears and call out to the demons to free themselves of the humans, and so the demons began to oppose the humans. The protagonist, Cassiel, lost his parents and decides to abandon his hometown to travel. After rescuing the heroine, Pyutia, their journey becomes one geared towards saving the world.</desc>
+          <image>~/.emulationstation/downloaded_images/gb/Another Bible (Japan) (SGB Enhanced).jpg</image>
+          <releasedate>19950303T000000</releasedate>
+          <developer>Dice</developer>
+          <publisher>ATLUS</publisher>
+          <genre>Strategy</genre>
+          <region>Japan</region>
+          <romtype>Original</romtype>
+      </game>
+      <game id="570053" source="gamefaqs.com">
+          <path>./Animal Breeder 2 (Japan) (SGB Enhanced).zip</path>
+          <name>Animal Breeder 2 (Japan) (SGB Enhanced)</name>
+          <desc>Animal Breeder 2 is a Strategy game, published by J-Wing, which was released in Japan in 1998.</desc>
+          <image>~/.emulationstation/downloaded_images/gb/Animal Breeder 2 (Japan) (SGB Enhanced).jpg</image>
+          <releasedate>19980515T000000</releasedate>
+          <publisher>J-Wing</publisher>
+          <genre>Strategy</genre>
+          <region>Japan</region>
+          <romtype>Original</romtype>
+      </game>
+      <game id="569976" source="gamefaqs.com">
+          <path>./Animal Breeder (Japan) (SGB Enhanced).zip</path>
+          <name>Animal Breeder (Japan) (SGB Enhanced)</name>
+          <desc>Animal Breeder is a Strategy game, published by J-Wing, which was released in Japan in 1997.</desc>
+          <image>~/.emulationstation/downloaded_images/gb/Animal Breeder (Japan) (SGB Enhanced).jpg</image>
+          <releasedate>19970911T000000</releasedate>
+          <publisher>J-Wing</publisher>
+          <genre>Strategy</genre>
+          <region>Japan</region>
+          <romtype>Original</romtype>
+      </game>
+      <game id="574768" source="gamefaqs.com">
+          <path>./Amida (Japan).zip</path>
+          <name>Amida (Japan)</name>
+          <desc>Amida is a Japanese ladder climbing puzzle video game. It was released in Japan on Oct 23, 1990 and never saw a release in another territory. The game requires players to navigate the main character safely across several pre-set bridges. Each bridge is composed of a number of obstacles that the character will blindly navigate into. The player can utilize an animated platform to redirect the main character as they move through the stage. The game features ten main levels. Each level is further sub divided into 10 separate levels (ex. 1-1, 1-2, etc.) similar to other platform games like Super Mario Bros.</desc>
+          <image>~/.emulationstation/downloaded_images/gb/Amida (Japan).jpg</image>
+          <releasedate>19901023T000000</releasedate>
+          <developer>Sofix</developer>
+          <publisher>Coconuts</publisher>
+          <genre>Puzzle</genre>
+          <region>Japan</region>
+          <romtype>Original</romtype>
+      </game>
+      <game id="569816" source="gamefaqs.com">
+          <path>./America Oudan Ultra Quiz Part 4 (Japan).zip</path>
+          <name>America Oudan Ultra Quiz Part 4 (Japan)</name>
+          <desc>America Ōdan Ultra Quiz is the fourth episode of a series of Japan-exclusive video games based on the game show of the same title, broadcast on Nippon Television.</desc>
+          <image>~/.emulationstation/downloaded_images/gb/America Oudan Ultra Quiz Part 4 (Japan).jpg</image>
+          <releasedate>19931029T000000</releasedate>
+          <publisher>Tomy</publisher>
+          <genre>Quiz</genre>
+          <region>Japan</region>
+          <romtype>Original</romtype>
+      </game>
+      <game id="569746" source="gamefaqs.com">
+          <path>./America Oudan Ultra Quiz Part 3 - Champion Taikai (Japan).zip</path>
+          <name>America Oudan Ultra Quiz Part 3 - Champion Taikai (Japan)</name>
+          <desc>America Ōdan Ultra Quiz is the third episode of a series of Japan-exclusive video games based on the game show of the same title, broadcast on Nippon Television.</desc>
+          <image>~/.emulationstation/downloaded_images/gb/America Oudan Ultra Quiz Part 3 - Champion Taikai (Japan).jpg</image>
+          <releasedate>19921127T000000</releasedate>
+          <publisher>Tomy</publisher>
+          <genre>Quiz</genre>
+          <region>Japan</region>
+          <romtype>Original</romtype>
+      </game>
+      <game id="569680" source="gamefaqs.com">
+          <path>./America Oudan Ultra Quiz Part 2 (Japan).zip</path>
+          <name>America Oudan Ultra Quiz Part 2 (Japan)</name>
+          <desc>America Ōdan Ultra Quiz is the second episode of a series of Japan-exclusive video games based on the game show of the same title, broadcast on Nippon Television.</desc>
+          <image>~/.emulationstation/downloaded_images/gb/America Oudan Ultra Quiz Part 2 (Japan).jpg</image>
+          <releasedate>19911220T000000</releasedate>
+          <publisher>Tomy</publisher>
+          <genre>Quiz</genre>
+          <region>Japan</region>
+          <romtype>Original</romtype>
+      </game>
+      <game id="579905" source="gamefaqs.com">
+          <path>./America Oudan Ultra Quiz (Japan).zip</path>
+          <name>America Oudan Ultra Quiz (Japan)</name>
+          <desc>America Ōdan Ultra Quiz is the first episode of a series of Japan-exclusive video games based on the game show of the same title, broadcast on Nippon Television.</desc>
+          <image>~/.emulationstation/downloaded_images/gb/America Oudan Ultra Quiz (Japan).jpg</image>
+          <releasedate>19901223T000000</releasedate>
+          <publisher>Tomy</publisher>
+          <genre>Quiz</genre>
+          <region>Japan</region>
+          <romtype>Original</romtype>
+      </game> 	  
       <game id="569935" source="gamefaqs.com">
           <path>./Akazukin Chacha (Japan) (SGB Enhanced).zip</path>
           <name>Akazukin Chacha (Japan) (SGB Enhanced)</name>
@@ -47,7 +220,7 @@
           <region>Japan</region>
           <romtype>Original</romtype>
       </game>
-	  <game id="" source="wikipedia.com">
+	  <game id="569726" source="gamefaqs.com">
           <path>./3-pun Yosou - Umaban Club (Japan).zip</path>
           <name>3-pun Yosou - Umaban Club (Japan)</name>
           <desc>Sanpun Yosō Umaban Club is a Japanese horse racing video game developed and published by Hect for the Game Boy exclusively in Japan. It was released in Japan on Oct 16, 1992 and never saw a release in another territory. The game allows players to place bets on horse races.</desc>
