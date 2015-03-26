@@ -33,7 +33,7 @@ Total games in rom dir : 492
 Scrapped games in gamelist.xml : 370  
 Games to scrap : 122  
 
-## PCENGINE ## 
+## PCENGINE ##
 Total games in rom dir : 412   
 Scrapped games in gamelist.xml : 244  
 Games to scrap : 168  
