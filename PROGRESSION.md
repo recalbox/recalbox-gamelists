@@ -30,3 +30,8 @@ Total games in rom dir : 2674
 Scrapped games in gamelist.xml : 1867  
 Games to scrap : 807  
 
+## GAMEGEAR ##
+Total games in rom dir : 492  
+Scrapped games in gamelist.xml : 370  
+Games to scrap : 122  
+
