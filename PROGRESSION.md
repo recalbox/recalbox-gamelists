@@ -37,3 +37,9 @@ Games to scrap : 122
 Total games in rom dir : 412   
 Scrapped games in gamelist.xml : 244  
 Games to scrap : 168  
+
+## SNES ##
+Total games in rom dir : 3350  
+Scrapped games in gamelist.xml : 2407  
+Games to scrap : 943  
+
