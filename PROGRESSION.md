@@ -3,7 +3,6 @@ Total games in rom dir : 1594
 Scrapped games in gamelist.xml : 1077  
 Games to scrap : 517  
 
-
 ## Game Boy Color ##
 Total games in rom dir : 1409  
 Scrapped games in gamelist.xml : 884  
@@ -13,7 +12,6 @@ Games to scrap : 525
 Total games in rom dir : 532  
 Scrapped games in gamelist.xml : 483  
 Games to scrap : 49  
-
 
 ## SEGA 32X ##
 Total games in rom dir : 63  
@@ -35,3 +33,7 @@ Total games in rom dir : 492
 Scrapped games in gamelist.xml : 370  
 Games to scrap : 122  
 
+## PCENGINE ## 
+Total games in rom dir : 412   
+Scrapped games in gamelist.xml : 244  
+Games to scrap : 168  
