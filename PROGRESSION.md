@@ -14,9 +14,8 @@ Scrapped games in gamelist.xml : 483
 Games to scrap : 49  
 
 ## SEGA 32X ##
-Total games in rom dir : 63  
-Scrapped games in gamelist.xml : 51  
-Games to scrap : 12  
+100 %  
+Some bios and test programs are not scrapped.
 
 ## MEGADRIVE ##
 Total games in rom dir : 1664   
