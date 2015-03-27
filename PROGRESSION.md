@@ -1,7 +1,7 @@
 ## GameBoy ##
 Total games in rom dir : 1594  
 Scrapped games in gamelist.xml : 1077  
-Games to scrap : 517  
+Games to scrap : 516  
 
 ## Game Boy Color ##
 Total games in rom dir : 1409  
