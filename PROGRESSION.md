@@ -42,3 +42,8 @@ Total games in rom dir : 3350
 Scrapped games in gamelist.xml : 2407  
 Games to scrap : 943  
 
+## MAME set version 0.37b5 ##
+Total games in rom dir : 2241  
+Scrapped games in gamelist.xml : 1852  
+Games to scrap : 389  
+
