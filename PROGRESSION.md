@@ -19,8 +19,8 @@ Some bios and test programs are not scrapped.
 
 ## MEGADRIVE ##
 Total games in rom dir : 1664   
-Scrapped games in gamelist.xml : 1570   
-Games to scrap : 94   
+Scrapped games in gamelist.xml : 1628   
+Games to scrap : 36   
 
 ## NES ##
 Total games in rom dir : 2674  
