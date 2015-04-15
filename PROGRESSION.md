@@ -146,3 +146,10 @@ Scrapped games in gamelist.xml : 0
 Games to scrap :
 Scrapper Used :
 Contributors :
+
+## MAME set version 0.37b5 ##
+Total games in rom dir : 2241  
+Scrapped games in gamelist.xml : 1852  
+Games to scrap : 389  
+Scrapper Used : sselph
+Contributors : Rockaddicted
