@@ -11,9 +11,10 @@ From the website of no-intro :
 See http://www.no-intro.org/ for more informations on their game database.
 
 
-If you want to contribute, here are the rules:
+**If you want to contribute, here is the procedure :**
 - Only use No-Intro data files.
-- Use the special scrapper at https://github.com/digitalLumberjack/ES-scraper
+- First, use the special scrapper at https://github.com/digitalLumberjack/ES-scraper, it bases the scrape on games checksums, so you'll have no errors in scraped games.
+- Then use babou's https://github.com/bbouko/Recalbox-scraper to scrape games basing search on file names.
 - If you add custom image, the maximum width should be 375px and the maximum height should be 350px.
 - Create a pull request with the modified gamelists and images.
 
