@@ -91,11 +91,11 @@ Contributors :
 ## Nintendo 64 ##
 Romset version : 20140703  
 Total 7z files in rom dir : 403  
-Total games in rom dir :  
-Scrapped games in gamelist.xml : 0  
-Games to scrap :  
-Scrapper Used :  
-Contributors :  
+Total games in rom dir : 937 
+Scrapped games in gamelist.xml : 850  
+Games to scrap : 87
+Scrapper Used : sselph  
+Contributors : MikaXII 
 
 ## Nintendo Virtual Boy ##
 Romset version : 20140803  
