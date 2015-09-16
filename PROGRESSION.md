@@ -118,16 +118,16 @@ Romset version : 20140508
 Total games in rom dir : 202    
 Scrapped games in gamelist.xml : 0    
 Games to scrap : 202  
-Scrapper Used : gamefaqs
-Contributors : spriggan59
+Scrapper Used : gamefaqs    
+Contributors : spriggan59    
 
 ## WonderSwan & WonderSwan Color ##
-Romset version : 20140803 (20140107 for Color)
-Total games in rom dir : 207
-Scrapped games in gamelist.xml : 177
-Games to scrap : 30
-Scrapper Used : Thegamesdb manual validation, manual
-Contributors : Reivaax
+Romset version : 20140803 (20140107 for Color)    
+Total games in rom dir : 207    
+Scrapped games in gamelist.xml : 177    
+Games to scrap : 30    
+Scrapper Used : Thegamesdb manual validation, manual    
+Contributors : Reivaax    
 
 -------------------------------
 ######## Arcade Romset ########
