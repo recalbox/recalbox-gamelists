@@ -7,7 +7,7 @@ Romset version : 20140826
 Total games in rom dir (Exept bios) : 1 593  
 Scrapped games in gamelist.xml : 1 565  
 Games to scrap : 28  
-Scrapper Used : sselph & gamefaqs &   
+Scrapper Used : sselph & gamefaqs & manual
 Contributors : Babou, DigitaLumberjack, Reivaax  
 
 ## Game Boy Color ##
@@ -118,20 +118,20 @@ Romset version : 20140508
 Total games in rom dir : 202    
 Scrapped games in gamelist.xml : 0    
 Games to scrap : 202  
-Scrapper Used :  
-Contributors :  
+Scrapper Used : gamefaqs
+Contributors : spriggan59
 
+## WonderSwan & WonderSwan Color ##
+Romset version : 20140803 (20140107 for Color)
+Total games in rom dir : 207
+Scrapped games in gamelist.xml : 177
+Games to scrap : 30
+Scrapper Used : Thegamesdb manual validation, manual
+Contributors : Reivaax
 
 -------------------------------
 ######## Arcade Romset ########
 -------------------------------
-
-## Mame 0.37b5 ##  
-Total games + neogeo Bios in rom dir : 2 243  
-Scrapped games in gamelist.xml : 0  
-Games to scrap : 2 243  
-Scrapper Used :  
-Contributors :  
 
 ## FBA 0.114 ##
 Total games in rom dir :  
