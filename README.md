@@ -1,7 +1,8 @@
-# recalbox-gamelists
-Emulationstation gamelists and images for recalbox.
+# recalbox-gamelists-fr
+Emulationstation gamelists and images for recalbox, in French version.
 
 This repository regroups gamelists and images for emulationstation systems in recalbox.
+This french version is based on Screenscraper DB : http://www.screenscraper.fr/index.php
 
 Rom names are based on "NO-INTRO" sets, that are very clean sets for many systems.
 
@@ -13,9 +14,7 @@ See http://www.no-intro.org/ for more informations on their game database.
 
 **If you want to contribute, here is the procedure :**
 - Only use No-Intro data files.
-- First, use the special scrapper at https://github.com/digitalLumberjack/scraper, it bases the scrape on games checksums, so you'll have no errors in scraped games.
+- First, use the Universale Scraper from Screech **link to add**, it bases the scrape on games checksums, so you'll have no errors in scraped games.
 - Then use babou's https://github.com/bbouko/Recalbox-scraper to scrape remaining games basing search on file names.
 - If you add custom image, the maximum width should be 375px and the maximum height should be 350px.
 - Create a pull request with the modified gamelists and images.
-
-The special scrapper automatically resize scrapped image to the good size. It also add the *region* tag with corresponding region in xml data. A *romtype* tag is added too, with a default value set to *Official* if the title do not contains the string *(Proto)*.
